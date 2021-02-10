@@ -77,7 +77,7 @@ print('033[1;92m ╋╋╋╋╋╋┏━┛┃')
 print('033[1;92m ╋╋╋╋╋╋┗━━┛')
 titles = []
 
-for i in range(80):
+for i in range(300):
     titles.append({"title": f"𝐿𝑢𝑓𝑓𝑦 ⛷ ★彡 {i}", "color":"#00EE95"})
 
 # Sistema de finalização/Confirmação:
